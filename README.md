@@ -1,2 +1,0 @@
-# Poiap
-Created with CodeSandbox
